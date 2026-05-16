@@ -282,6 +282,9 @@
   .w-\[210px\] {
     width: 210px;
   }
+  .w-\[250px\] {
+    width: 250px;
+  }
   .w-\[300px\] {
     width: 300px;
   }
@@ -299,6 +302,9 @@
   }
   .resize {
     resize: both;
+  }
+  .flex-col {
+    flex-direction: column;
   }
   .flex-wrap {
     flex-wrap: wrap;
@@ -329,6 +335,18 @@
   }
   .gap-\[30px\] {
     gap: 30px;
+  }
+  .gap-\[320px\] {
+    gap: 320px;
+  }
+  .gap-y-\[20px\] {
+    row-gap: 20px;
+  }
+  .gap-y-\[40px\] {
+    row-gap: 40px;
+  }
+  .gap-y-\[50px\] {
+    row-gap: 50px;
   }
   .rounded-\[10px\] {
     border-radius: 10px;
