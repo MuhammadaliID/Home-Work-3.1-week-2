@@ -246,6 +246,15 @@
   .ml-\[220px\] {
     margin-left: 220px;
   }
+  .ml-\[230px\] {
+    margin-left: 230px;
+  }
+  .ml-\[235px\] {
+    margin-left: 235px;
+  }
+  .ml-\[240px\] {
+    margin-left: 240px;
+  }
   .ml-\[400px\] {
     margin-left: 400px;
   }
@@ -508,6 +517,11 @@
   .sm\:ml-\[200px\] {
     @media (width >= 40rem) {
       margin-left: 200px;
+    }
+  }
+  .sm\:ml-\[235px\] {
+    @media (width >= 40rem) {
+      margin-left: 235px;
     }
   }
   .sm\:ml-\[500px\] {
